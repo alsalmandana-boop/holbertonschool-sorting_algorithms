@@ -27,4 +27,7 @@ void bubble_sort(int *array, size_t size);
 /* Task 2 */
 void selection_sort(int *array, size_t size);
 
+/* Task 3 */
+void quick_sort(int *array, size_t size);
+
 #endif /* SORT_H */
